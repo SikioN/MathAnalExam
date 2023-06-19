@@ -9,9 +9,9 @@ if __name__ == '__main__':
         # НАЧАЛО ЧАСТИ, КОТОРУЮ НУЖНО ИЗМЕНИТЬ
 
         githubName = "SikioN"
-        repoName = "название вашего репозитория"
-        header = "заголовок вашего сайта"
-        fileExtension = ".jpg"
+        repoName = "MathAnalExam"
+        header = "Экзамен про МатАн"
+        fileExtension = ".png"
 
         # КОНЕЦ ЧАСТИ, КОТОРУЮ НУЖНО ИЗМЕНИТЬ
     elif len(sys.argv) == 5:
