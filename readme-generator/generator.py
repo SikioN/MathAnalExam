@@ -67,7 +67,7 @@ if __name__ == '__main__':
                     ["В", "B"], ["К", "K"], ["с", "c"],
                     ["у", "y"]]
 
-    imageLinkTemplate = "https://raw.githubusercontent.com/" + githubName + "/" + repoName + "/main/cards/"
+    imageLinkTemplate = "https://raw.githubusercontent.com/" + githubName + "/" + repoName + "/master/cards/"
     linkTemplate = "https://" + githubName + ".github.io/" + repoName + "/#"
     linkToTop = linkTemplate + quote(quoteConvert(header))
 
